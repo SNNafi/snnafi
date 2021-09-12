@@ -32,16 +32,26 @@
 ### Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">
 <a href="https://linkedin.com/in/snnafi">
   <img align="left" alt="snnafi's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<!-- </a> <a href="https://twitter.com/ShahriarNasim">
+ 
+ <a href="https://stackoverflow.com/users/8650263/shahriar-nasim-nafi">
+  <img align="left" alt="snnafi's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+  
+ 
+  
+ </a> <a href="https://twitter.com/ShahriarNasim">
   <img align="left" alt="ShahriarNasim's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> <a href="https://github.com/snnafi">
-  <img align="left" alt="snnafi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+
+<!--  <img align="left" alt="snnafi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a> <a href="https://github.com/freak4code">
   <img align="left" alt="snnafi's playing Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a> <br> -->
 <br>
  <br>
 
+
+ 
+ 
 [![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=snnafi&theme=tokyonight)](https://git.io/praveenscience)
 
 ### Statistics

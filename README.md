@@ -14,6 +14,10 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I want to be a __Hardware Architect__
 
+![](https://komarev.com/ghpvc/?username=snnafi&color=138D75&style=flat+square&label=Total+views)
+
+
+
 ### Languages & Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
@@ -25,19 +29,26 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-### Connect
+### Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">
 <a href="https://linkedin.com/in/snnafi">
   <img align="left" alt="snnafi's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> <a href="https://twitter.com/ShahriarNasim">
+<!-- </a> <a href="https://twitter.com/ShahriarNasim">
   <img align="left" alt="ShahriarNasim's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> <a href="https://github.com/snnafi">
   <img align="left" alt="snnafi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a> <a href="https://github.com/freak4code">
   <img align="left" alt="snnafi's playing Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a> <br>
+</a> <br> -->
+<br>
+ <br>
+
+[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=snnafi&theme=tokyonight)](https://git.io/praveenscience)
 
 ### Statistics
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snnafi&theme=dark&hide_langs_below=1" />-->
 <img src="https://github-readme-stats.vercel.app/api?username=snnafi&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snnafi&" alt="snnafi"/></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snnafi&theme=tokyonight)
+

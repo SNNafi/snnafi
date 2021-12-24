@@ -52,7 +52,7 @@
 
  
  
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=snnafi&theme=tokyonight)](https://git.io/praveenscience)
+<!--[![SNNafi's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=snnafi&theme=tokyonight)](https://git.io/praveenscience)-->
 
 ### Statistics
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snnafi&theme=dark&hide_langs_below=1" />-->

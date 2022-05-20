@@ -54,5 +54,5 @@
  
 <!--[![SNNafi's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=snnafi&theme=tokyonight)](https://git.io/praveenscience)-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snnafi&theme=tokyonight)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snnafi&theme=tokyonight) -->
 

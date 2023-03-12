@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on __SwiftUI, Flutter__
 - 🌱 I’m currently learning __Algorithm & Data Structure__
-- 👯 I’m looking to collaborate on __iOS apps__
+- 👯 I’m looking to collaborate on __Flutter__ & __iOS apps__
 - 🤔 I’m looking for help with __Algorithm & Data Structure__
 - 💬 Ask me about my projects
 - 📫 How to reach me: shahriarnasim.nafi@gmail.com
